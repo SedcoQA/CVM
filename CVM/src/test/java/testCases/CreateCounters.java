@@ -12,7 +12,7 @@ import com.sedco.CVM.General;
 import cvmServer.HomePage;
 import cvmServer.LoginPage;
 
-public class CreateBranches {
+public class CreateCounters {
 
 	public static void main(String[] args) throws Exception {
 
